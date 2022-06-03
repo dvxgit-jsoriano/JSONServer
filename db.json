@@ -5,7 +5,7 @@
       "population":null,
       "flagUrl":null,
       "checked":false,
-      "hasChildren":false,
+      "hasChildren":true,
       "children":[
          {
             "id":2,
